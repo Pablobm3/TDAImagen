@@ -1,0 +1,5 @@
+/home/pablo/Descargas/codigo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pablo/Descargas/codigo/cmake-build-debug/CMakeFiles/image.dir
+/home/pablo/Descargas/codigo/cmake-build-debug/CMakeFiles/negativo.dir
+/home/pablo/Descargas/codigo/cmake-build-debug/CMakeFiles/doc_doxygen.dir
+/home/pablo/Descargas/codigo/cmake-build-debug/CMakeFiles/edit_cache.dir
